@@ -1,0 +1,4 @@
+#! /bin/sh
+wal -i "$1"
+python "$HOME/.local/scripts/pywal_sublime.py"
+

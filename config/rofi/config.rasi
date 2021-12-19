@@ -1,0 +1,14 @@
+configuration {
+	font: "Hermit 16";
+}
+
+listview {
+	lines: 6;
+	columns: 3;
+}
+
+window {
+	width: 50%;
+}
+
+@import "~/.cache/wal/colors-rofi-light"
